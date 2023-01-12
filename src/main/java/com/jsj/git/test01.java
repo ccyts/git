@@ -12,6 +12,6 @@ public class test01 {
         System.out.println("master");
         System.out.println("hello git3");
         System.out.println("push");
-
+        System.out.println("gitee-push");
     }
 }
